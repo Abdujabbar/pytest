@@ -1,4 +1,4 @@
-anyio[curio,trio]==3.6.2
+anyio[curio,trio]==3.7.0
 django==4.1.7
 pytest-asyncio==0.20.2
 pytest-bdd==6.1.1
